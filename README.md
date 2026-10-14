@@ -1,3 +1,3 @@
 # Clase-09-TN-todos
 Conectando con plantilla de calculo exel
-=+SI(L2="Fluvial"; "Mayorista"; SI (L2="Terrestre"; "Minorista"; "Corporativo"))
+(https://docs.google.com/spreadsheets/d/1aN-xfr23wpNPRcrBho8l5MpqnedZURBu/edit?usp=drive_link&ouid=110965426752880483123&rtpof=true&sd=true)
